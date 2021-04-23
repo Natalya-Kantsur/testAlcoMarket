@@ -248,17 +248,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .slider_item_one {
-  background: linear-gradient(90.17deg, rgba(0, 0, 0, 0.9) -6.79%, rgba(0, 0, 0, 0) 100.91%), url("/image/pop7.jpg");
+  background: linear-gradient(90.17deg, rgba(0, 0, 0, 0.9) -6.79%, rgba(0, 0, 0, 0) 100.91%), url("pop7.jpg");
   background-size: cover;
 }
 
 .slider_item_two {
-  background: linear-gradient(90.17deg, rgba(0, 0, 0, 0.9) -6.79%, rgba(0, 0, 0, 0) 100.91%), url("/image/pop1.jpg");
+  background: linear-gradient(90.17deg, rgba(0, 0, 0, 0.9) -6.79%, rgba(0, 0, 0, 0) 100.91%), url("pop1.jpg");
   background-size: cover;
 }
 
 .slider_item_three {
-  background: linear-gradient(90.17deg, rgba(0, 0, 0, 0.9) -6.79%, rgba(0, 0, 0, 0) 100.91%), url("/image/pop6.jpg");
+  background: linear-gradient(90.17deg, rgba(0, 0, 0, 0.9) -6.79%, rgba(0, 0, 0, 0) 100.91%), url("pop6.jpg");
   background-size: cover;
 }
 
@@ -377,27 +377,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .category_item-1 {
-  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("/image/pop1.jpg");
+  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("pop1.jpg");
 }
 
 .category_item-2 {
-  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("/image/pop2.jpg");
+  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("pop2.jpg");
 }
 
 .category_item-3 {
-  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("/image/pop3.jpg");
+  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("pop3.jpg");
 }
 
 .category_item-4 {
-  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("/image/pop4.jpg");
+  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("pop4.jpg");
 }
 
 .category_item-5 {
-  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("/image/pop5.jpg");
+  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("pop5.jpg");
 }
 
 .category_item-6 {
-  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("/image/pop6.jpg");
+  background: linear-gradient(106.85deg, #000000 0.88%, rgba(0, 0, 0, 0) 41.22%), url("pop6.jpg");
 }
 
 .category_btn {

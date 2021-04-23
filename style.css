@@ -424,13 +424,6 @@ h1, h2, h3, h4, h5, h6 {
     grid-gap: 20px;
   }
 
-  .category_item-2, .category_item-3, .category_item-4, .category_item-5 {
-    grid-row: span 1;
-  }
-
-  .category_item-1, .category_item-6 {
-    grid-column: span 1;
-  }
 
   .category_title {
     font-size: 20px;
